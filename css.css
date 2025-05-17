@@ -1,0 +1,13 @@
+
+/*Aqui só tem CSS - Comentario CSS*/ 
+<style>
+.card{
+    border: 2px black solid;
+    margin: 5px;
+    padding: 5px;
+  }
+  /*adicionando no id*/
+  #container{
+    style="display: flex;
+  }
+  </style>
